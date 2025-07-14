@@ -11,8 +11,8 @@
   <postProgressionTree>	role_ATSPG_support	</postProgressionTree>
   <customRoleSlotOptions>	3 5	</customRoleSlotOptions>
   <speedLimits>
-    <forward>	32	</forward>
-    <backward>	8	</backward>
+    <forward>	38	</forward>
+    <backward>	14	</backward>
   </speedLimits>
   <invisibility>
     <moving>	0.015	</moving>
