@@ -2538,7 +2538,7 @@
           <armor>
             <gun>	30	</gun>
           </armor>
-          <shotDispersionRadius>	0.42	</shotDispersionRadius>
+          <shotDispersionRadius>	0.0 	</shotDispersionRadius>
           <reloadTime>	30	</reloadTime>
           <shotDispersionFactors>
             <turretRotation>	0.3	</turretRotation>
